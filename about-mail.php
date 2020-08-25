@@ -10,6 +10,7 @@ require 'vendor/autoload.php';
 $name = $_POST['name'];
 $email = $_POST['email'];
 $mobile = $_POST['mobile'];
+uih
 $courses = $_POST['courses'];
 $enqtype = $_POST['enqtype'];
 $message = $_POST['message'];
